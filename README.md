@@ -50,7 +50,7 @@ client/
 └── ...                         
 ```
 
-### Frontend
+### Backend
 ```
 models/
 ├── Portfolio.js                
