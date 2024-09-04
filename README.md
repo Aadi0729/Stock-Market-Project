@@ -11,6 +11,7 @@
 - [⚙️ Running the Project](#-running-the-project)
 - [🎨 Screenshots](#-screenshots)
 - [📜 Contribution](#-contribution)
+- [🤝Connect with me](#-connect-with-me)
 
 ## 📋 Overview
 The **Stock Market Portfolio App** is a web application built using the MERN stack (MongoDB, Express, React, Node.js) that allows users to manage their stock market portfolios. Users can add, view, and manage their stocks, track their portfolio's performance, and make informed investment decisions.
@@ -103,3 +104,9 @@ npm start
 
 ## 🌟 Contribution 👍
 Contributions to this project are welcome! If you'd like to contribute then show your support by starring this repository on GitHub.
+
+## Connect with me :
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapateriya7986@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pateriya7781/)
+
